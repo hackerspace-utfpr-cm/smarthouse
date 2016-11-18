@@ -1,8 +1,3 @@
-.. smart-house documentation master file, created by
-   sphinx-quickstart on Wed Apr 13 10:56:41 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Sobre o Projeto
 ======================================
 
@@ -23,9 +18,8 @@ Licença
 =======================================
 
 Este projeto é um software livre; você pode redistribuí-lo e/ou 
-modificá-lo dentro dos termos da Licença Pública Geral GNU como 
-publicada pela Fundação do Software Livre (FSF); na versão 3 da 
-Licença.
+modificá-lo dentro dos termos da Licença Creative Commons Attribution
+Share Alike (CC-BY-SA).
 
 .. toctree::
    :maxdepth: 2
@@ -35,7 +29,8 @@ Licença.
 Casa inteligente 
 =======================================
 
-	- escrever introdução
+Uma casa inteligente integra elementos computacionais -- hardware e software -- para tornar o ambiente doméstico otimizado às pessoas, seja pela automatização de ações rotineiras como pela adaptação do ambiente para as pessoas conforme o contexto -- atividades realizantes, condições do ambiente -- e com utilização racional e sustentável de recursos.
+
 
 Internet das Coisas
 =======================================
@@ -134,9 +129,6 @@ Abaixo temos alguns exemplos de estórias ja implementadas.
 
 	Exemplo<primeiro_exemplo.rst>
 
-
-Como contribuir com esse projeto? 
-=======================================
 
 
 .. Indices and tables
