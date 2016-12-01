@@ -6,13 +6,12 @@ construção de uma casa inteligente. Nas proximas seçoes serão apresentados t
 os passos do desenvolvimento de softawere necessario para construção da casa e 
 todos os conteudos necessesarios para o entendimento dessa. 
 
-O projeto visa a construção de Recurso educacional aberto (REA). Segundo o Projeto 
-Brasileiro sobre Recursos Educacionais Abertos, REA são materiais de ensino, 
+O projeto visa a construção de Recurso educacional aberto (REA). Segundo o Projeto Brasileiro sobre Recursos Educacionais Abertos, REA são materiais de ensino, 
 aprendizado e pesquisa, fixados em qualquer suporte ou mídia, que estejam sob domínio
 público ou licenciados de maneira aberta, permitindo que sejam utilizados ou adaptados por terceiros.
 Para maiores informações sobre REA acesse: http://www.rea.net.br/site/.
 
-Os arquivos e códigos fonte do projetos estão disponíveis em: https://github.com/lohmanndouglas/smarthouse.git. 
+Os arquivos e códigos fonte do projetos estão disponíveis em: https://github.com/hackerspace-utfpr-cm/smarthouse.
 
 Licença
 =======================================
@@ -22,9 +21,25 @@ modificá-lo dentro dos termos da Licença Creative Commons Attribution
 Share Alike (CC-BY-SA).
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
 	Licença <license.rst>
+
+
+Sobre nós
+=======================================
+
+Este trabalho foi desenvolvido no projeto **Compute você Mesm@: Conexões de saberes e fazeres para inclusão digital**.
+
+.. figure:: compute.png
+   :scale: 60%
+   :align: center
+   :alt: Logo do projeto Compute você mesm@
+
+
+.. toctree::
+        Dados da equipe <contracapa.rst>
+
 
 Casa inteligente 
 =======================================
@@ -81,7 +96,7 @@ Para interface com o mundo analógico, a placa Arduino UNO possui 6 entradas, on
 .. figure:: arduino.jpg
    :scale: 60%
    :align: center
-   :alt: map to buried treasure
+   :alt: Foto do Arduino Uno.
 
    Figura 1: Arduino Uno.
 
