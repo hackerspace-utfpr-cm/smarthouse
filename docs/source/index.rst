@@ -137,13 +137,6 @@ O contexto deste projeto, pode ser muitas vezes considerado amplo, pois o mesmo 
 	- Planta da casa com sensores
 	- estorias
 
-Abaixo temos alguns exemplos de estórias ja implementadas. 
-
-.. toctree::
-   :maxdepth: 2
-
-	Exemplo<primeiro_exemplo.rst>
-
 
 
 .. Indices and tables
