@@ -5,7 +5,7 @@ Sobre nós
 CC-BY-SA: O trabalho **Introdução à computação utilizando IoT no contexto de automação residencial** está licenciado com uma Licença Creative Commons - Atribuição - Compartilha Igual 4.0 Internacional.
 
 **Autores e Autoras deste documento** --
-Douglas Lohmann, Cezar Berteli, Milene Lauzie Silva, Marco Aurélio Graciotto Silva, Paulo Cesar Gonçalves
+Douglas Lohmann, Cezar Bertelli, Milene Lauize Silva, Marco Aurélio Graciotto Silva, Paulo Cesar Gonçalves
 
 **Universidade Tecnológica Federal do Paraná - Câmpus Campo Mourão** --
 Luiz Alberto Pilatti (Reitoria), Maurício Alves Mendes (Pró-Reitoria de Graduação e
